@@ -27,3 +27,4 @@ while True:
     else:
         print("Hatalı seçim yaptınız. / You made an incorrect choice. Bye Bye")
         break
+        
